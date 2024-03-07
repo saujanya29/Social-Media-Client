@@ -1,0 +1,23 @@
+.feed{
+    margin-top: 20px;
+    .container{
+        display: flex;
+         gap: 20px;
+    }
+    .left-part{
+        flex:2;
+        height: 400px;
+    }
+    .right-part{
+        flex:1;
+        height: 400px;
+    }
+
+    .suggestions{
+        margin-top: 40px;
+
+    }
+    .title{
+        margin-bottom: 12px;
+    }
+}
